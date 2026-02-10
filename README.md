@@ -8,7 +8,7 @@
   <a href="https://github.com/x4r3s/fiery-ten">
     <img alt="Repository" src="https://img.shields.io/badge/GitHub-xar3s%2Ffiery--ten-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://github.com/xar3s/fiery-ten/blob/main/LICENSE">
+  <a href="https://github.com/x4r3s/fiery-ten/blob/main/LICENSE">
     <img alt="License" src="https://img.shields.io/github/license/xar3s/fiery-ten?style=for-the-badge">
   </a>
 </p>
