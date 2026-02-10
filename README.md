@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://github.com/xar3s/fiery-ten">
+  <a href="https://github.com/x4r3s/fiery-ten">
     <img src="./banner.png" alt="FIERY TEN banner" width="460">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/xar3s/fiery-ten">
+  <a href="https://github.com/x4r3s/fiery-ten">
     <img alt="Repository" src="https://img.shields.io/badge/GitHub-xar3s%2Ffiery--ten-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://github.com/xar3s/fiery-ten/blob/main/LICENSE">
@@ -104,5 +104,5 @@ You can run the game locally in a few simple steps.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/xar3s/fiery-ten.git
+git clone https://github.com/xr3s/fiery-ten.git
 ```
