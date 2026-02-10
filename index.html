@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="FIERY TEN is a browser game where you guess a number from 1 to 10 in five attempts." />
+  <title>FIERY TEN</title>
+  <link rel="icon" href="./favicon.png" type="image/png" />
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <main class="app" aria-labelledby="gameTitle">
+    <header>
+      <h1 class="title" id="gameTitle">🔥 FIERY TEN 🔥</h1>
+      <p class="stats">
+        Guess range: <b>1-10</b> · Attempts left: <b id="attemptsValue">5</b>
+      </p>
+      <p class="text">A random number from 1 to 10 is hidden.</p>
+      <p class="text">You have 5 attempts to guess it.</p>
+    </header>
+
+    <section class="board" id="guessGrid" aria-label="Number choices">
+      <button class="num" data-guess="1" type="button">1</button>
+      <button class="num" data-guess="2" type="button">2</button>
+      <button class="num" data-guess="3" type="button">3</button>
+      <button class="num" data-guess="4" type="button">4</button>
+      <button class="num" data-guess="5" type="button">5</button>
+      <button class="num" data-guess="6" type="button">6</button>
+      <button class="num" data-guess="7" type="button">7</button>
+      <button class="num" data-guess="8" type="button">8</button>
+      <button class="num" data-guess="9" type="button">9</button>
+      <button class="num" data-guess="10" type="button">10</button>
+    </section>
+
+    <section class="panel" aria-label="Game status">
+      <p class="msg" id="gameMessage" role="status" aria-live="polite">
+        Click a number. Let's see how hot your streak is!
+      </p>
+      <p class="hint" id="gameHint">The "Play again" button appears after your first wrong guess.</p>
+      <div class="actions">
+        <button class="btn" id="restartGameButton" type="button" hidden>Play again</button>
+      </div>
+    </section>
+
+    <footer class="footer" aria-label="Project credits">
+      <div class="credit">
+        <span class="label">Made by</span>
+        <a class="author" href="https://xar3s.ru/">xar3s</a>
+        <span class="dot">•</span>
+        <span class="year" id="footerYear"></span>
+      </div>
+
+      <a class="repo" href="https://github.com/xar3s/fiery-ten">
+        <img class="icon" src="./github.svg" alt="" aria-hidden="true" />
+        <span>View repository</span>
+      </a>
+    </footer>
+  </main>
+
+  <script src="./script.js"></script>
+</body>
+</html>
