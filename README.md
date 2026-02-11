@@ -9,7 +9,7 @@
     <img alt="Repository" src="https://img.shields.io/badge/GitHub-xar3s%2Ffiery--ten-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://github.com/x4r3s/fiery-ten/blob/main/LICENSE">
-    <img alt="License" src="https://img.shields.io/github/license/xar3s/fiery-ten?style=for-the-badge">
+    <img alt="License" src="https://img.shields.io/github/license/x4r3s/fiery-ten?style=for-the-badge">
   </a>
 </p>
 
@@ -52,16 +52,6 @@ Play the game online:
 
 ---
 
-## 🛠 Technologies
-
-| Technology | Description |
-|-----------|-------------|
-| HTML5 | Page structure and semantics |
-| CSS3 | Styling and layout |
-| JavaScript | Game logic and interactivity |
-
----
-
 ## 🌍 Browser Support
 
 **FIERY TEN** works in all modern browsers:
@@ -72,6 +62,8 @@ Play the game online:
 - ✅ Safari (latest)
 
 > JavaScript must be enabled.
+
+---
 
 ## 🚀 Getting Started
 
