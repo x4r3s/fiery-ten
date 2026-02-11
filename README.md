@@ -106,3 +106,13 @@ You can run the game locally in a few simple steps.
 ```bash
 git clone https://github.com/xr3s/fiery-ten.git
 ```
+
+### 2. Open the project folder
+
+```bash
+cd fiery-ten
+```
+
+### 3. Run the game
+
+Open `index.html` directly in your browser.
