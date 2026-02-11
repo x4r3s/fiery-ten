@@ -21,7 +21,6 @@ html {
     radial-gradient(800px 520px at 80% 15%, rgba(255, 46, 99, 0.18), transparent 60%),
     radial-gradient(900px 600px at 50% 100%, rgba(255, 204, 51, 0.12), transparent 55%),
     linear-gradient(180deg, var(--bg-start), var(--bg-end));
-  overscroll-behavior: none;
 }
 
 body {
@@ -39,7 +38,6 @@ body {
     radial-gradient(800px 520px at 80% 15%, rgba(255, 46, 99, 0.18), transparent 60%),
     radial-gradient(900px 600px at 50% 100%, rgba(255, 204, 51, 0.12), transparent 55%),
     linear-gradient(180deg, var(--bg-start), var(--bg-end));
-  overscroll-behavior: none;
 }
 
 .app {
