@@ -60,6 +60,7 @@ function handleGuess(guess) {
 
   if (guess === state.secretNumber) {
     finishGame("Victory! Starting a new number on restart.", "win");
+    showRestartButton();
     return;
   }
 
