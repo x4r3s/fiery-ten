@@ -31,18 +31,6 @@
 
 **FIERY TEN** is a lightweight browser-based game where the player must guess a randomly generated number between **1 and 10** within a limited number of attempts.
 
-The project is intentionally built using **vanilla web technologies** to demonstrate clean structure, basic game logic, and responsive layout without relying on frameworks or libraries.
-
----
-
-## ✨ Features
-
-- Minimalistic and intuitive user interface
-- Fully responsive layout
-- No external dependencies
-- Clear separation of structure, style, and logic
-- Instant game restart
-
 ---
 
 ## 🎮 Gameplay
@@ -84,19 +72,6 @@ Play the game online:
 - ✅ Safari (latest)
 
 > JavaScript must be enabled.
-
----
-
-## 📁 Project Structure
-
-```text
-fiery-ten/
-├── index.html      # Main HTML file, game layout and structure
-├── style.css       # Stylesheet for layout, colors, and responsiveness
-├── script.js       # Game logic and user interaction
-├── baner.png       # Project banner image (used in README)
-└── favicon.svg     # Browser tab icon
-```
 
 ## 🚀 Getting Started
 
