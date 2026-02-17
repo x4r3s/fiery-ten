@@ -33,6 +33,14 @@
 
 ---
 
+## 📸 Screenshoot
+
+<p align="center">
+  <img src="./screenshot.png" width="900">
+</p>
+
+---
+
 ## 🌐 Live Demo
 
 Play the game online:
