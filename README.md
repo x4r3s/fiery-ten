@@ -9,7 +9,7 @@
     <img alt="Repository" src="https://img.shields.io/badge/GitHub-xar3s%2Ffiery--ten-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://github.com/x4r3s/fiery-ten/blob/main/LICENSE">
-    <img alt="License" src="https://img.shields.io/github/license/x4r3s/fiery-ten?style=for-the-badge">
+    <img alt="License" src="https://img.shields.io/github/license/xar3s/fiery-ten?style=for-the-badge">
   </a>
 </p>
 
@@ -31,15 +31,7 @@
 
 **FIERY TEN** is a lightweight browser-based game where the player must guess a randomly generated number between **1 and 10** within a limited number of attempts.
 
----
-
-## 🎮 Gameplay
-
-- A random number between **1 and 10** is generated at the start of each game
-- The player has **5 attempts** to guess the correct number
-- Each guess is made by clicking a number button
-- The game ends when the number is guessed correctly or all attempts are used
-- The game can be restarted instantly without reloading the page
+The project is intentionally built using **vanilla web technologies** to demonstrate clean structure, basic game logic, and responsive layout without relying on frameworks or libraries.
 
 ---
 
@@ -49,6 +41,16 @@ Play the game online:
 
 👉 **[FIERY TEN — Live Demo](https://fiery-ten.xar3s.ru/)**  
 <sub>Hosted via GitHub Pages</sub>
+
+---
+
+## 🛠 Technologies
+
+| Technology | Description |
+|-----------|-------------|
+| HTML5 | Page structure and semantics |
+| CSS3 | Styling and layout |
+| JavaScript | Game logic and interactivity |
 
 ---
 
